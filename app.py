@@ -3,7 +3,7 @@ import joblib
 import pandas as pd
 
 
-app = Flask(__name__)
+app = Flask(__name__, template_folder='.')
 
 # Function to calculate credit score
 def calculate_credit_score(input_data):
