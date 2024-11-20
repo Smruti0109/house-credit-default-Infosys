@@ -58,7 +58,7 @@ def determine_fico_range(credit_score):
 
 
 # Load the pipeline
-pipeline = joblib.load('C:\\Users\\SMRUTI DESHPANDE\\house credit default\\credit_model_pipeline.pkl')
+pipeline = joblib.load('credit_model_pipeline.pkl')
 app.logger.info("Pipeline loaded successfully.")
 
 @app.route('/')
