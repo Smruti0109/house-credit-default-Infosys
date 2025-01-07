@@ -4,8 +4,6 @@
 
 This project focuses on predicting the likelihood of default on home loans using machine learning techniques. By analyzing real-world borrower data, we aim to help financial institutions reduce risk and improve their lending decisions.
 
-## Application Video:- https://drive.google.com/file/d/1CRb-r3h8LfoNuHg6wfmJtmieabagI00o/view?usp=sharing
-
 ## Project Goals
 
 1. **Data Exploration**: Understand the dataset and its characteristics through exploratory data analysis (EDA).
@@ -69,6 +67,8 @@ To run this project locally, follow these steps:
    python app.py
 4. **Access the application**:
    -Open your web browser and go to https://house-credit-default-infosys-6.onrender.com/
+
+## Application Video:- https://drive.google.com/file/d/1d1S2zadEBG2kt3fbSC2eUkF75XOEKG1z/view?usp=sharing
 
 ## Team Members
 
